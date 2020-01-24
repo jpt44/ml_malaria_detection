@@ -5,7 +5,7 @@ Machine Learning Python code that can detect malaria & malaria infected cells (t
 
 0ac747cd-ff32-49bf-bc1a-3e9b7702ce9c.png: Sample wholeslide microscopy image. 1 of 1328 wholeslide images in the dataset
 
-Final paper.pdf : the paper submitted for ECE 687 Pattern Recognition at Drexel University 2019 including comparitive analysis of this project and current state of the art
+Final paper.pdf : the paper submitted for ECE 687 Pattern Recognition at Drexel University 2019 including comparative analysis of this project and current state of the art
 
 NeuralClass.py: Contains the Artificial Neural Net (ANN) used in the NeuralN.py file. Created using Pytorch.
 
