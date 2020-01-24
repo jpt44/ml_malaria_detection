@@ -7,6 +7,8 @@ Machine Learning Python code that can detect malaria & malaria infected cells (t
 
 Final paper.pdf : the paper submitted for ECE 687 Pattern Recognition at Drexel University 2019 including comparative analysis of this project and current state of the art
 
+Malaria Detection.pptx: PowerPoint summarizing Final Paper.pdf
+
 NeuralClass.py: Contains the Artificial Neural Net (ANN) used in the NeuralN.py file. Created using Pytorch.
 
 NeuralN.py: Uses the ANN created in the NeuralClass.py file for detection of malaria and malaria infected cells in wholeslide microscopy images. Maximum accuracy: 92.81, F-score: 96.25
