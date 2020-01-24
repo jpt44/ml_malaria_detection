@@ -9,11 +9,12 @@ Final paper.pdf : the paper submitted for ECE 687 Pattern Recognition at Drexel 
 
 NeuralClass.py: Contains the Artificial Neural Net (ANN) used in the NeuralN.py file. Created using Pytorch.
 
-NeuralN.py: Uses the ANN created in the NeuralClass.py file for detection of malaria and malaria infected cells in wholeslide microscopy images. Maximum accuracy: 92.81 F-score: 96.25
+NeuralN.py: Uses the ANN created in the NeuralClass.py file for detection of malaria and malaria infected cells in wholeslide microscopy images. Maximum accuracy: 92.81, F-score: 96.25
 
 LBP.py: (Local Binary Pattern) contains the algorithm that converts a grayscale image to a local binary pattern image
 
-SVM.py: contains both Support Vector Machine (SVM) and Random Forest Classifier used for this dataset with and without Principal Component Analysis (PCA). SVM and Random Forest Classifier respectively: Maximum accuracy: NA (didn't converge) F-score: NA (didn't converge) Maximum accuracy: 81.89 F-score: 89.32 
+SVM.py: contains both Support Vector Machine (SVM) and Random Forest Classifier used for this dataset with and without Principal Component Analysis (PCA). 
+SVM and Random Forest Classifier respectively: Maximum accuracy: NA (didn't converge), F-score: NA (didn't converge), Maximum accuracy: 81.89, F-score: 89.32 
 
 plotInfectedCells.py: plots RGB of dataset, PCA histograms using Matplotlib
  
